@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @yasminatr2
--  I’m interested in  FrontEnd
--  I’m currently learning...  Javascript, HTML, CSS and C
-- that's me
+-  I’m currently learning:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=100/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=100/>
+          
+          
+
+          
 
 ![ Estatísticas GitHub de Clara ](https://github-readme-stats.vercel.app/api?username=yasminatr2&show_icons=true&theme=midnight-purple)
 
